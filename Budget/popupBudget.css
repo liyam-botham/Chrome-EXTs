@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: radial-gradient(circle at 44.9% -8.29%, #f86cc8 0, #e864cd 16.67%, #d55cd3 33.33%, #be55d8 50%, #a250dd 66.67%, #814fe2 83.33%, #534fe7 100%);
+    color: aliceblue
+}
+h1{
+    text-align: center;
+}
+#btn 
+{
+    background-color: greenyellow;
+    border-radius: 40%;
+}
+#reset
+{
+    background-color: hotpink;
+    border-radius: 40%;
+}
